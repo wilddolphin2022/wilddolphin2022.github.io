@@ -1,1 +1,7 @@
-# wilddolphin2022.github.io
+## WildDolphin Blog Pages.
+
+# News
+
+# WebRTCsays.AI.
+
+# Whillats
