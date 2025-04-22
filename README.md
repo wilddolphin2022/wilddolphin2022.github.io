@@ -1,7 +1,7 @@
-## WildDolphin Blog Pages.
+# WildDolphin Blog Pages.
 
-# News
+## News
 
-# WebRTCsays.AI.
+### WebRTCsays.AI.
 
-# Whillats
+### Whillats
